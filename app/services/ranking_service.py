@@ -1,0 +1,1 @@
+"""Classement explicable des résultats."""

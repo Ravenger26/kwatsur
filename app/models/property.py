@@ -1,0 +1,1 @@
+"""Modèle SQLAlchemy du logement."""

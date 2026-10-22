@@ -1,0 +1,1 @@
+"""Configuration centralisée des journaux."""

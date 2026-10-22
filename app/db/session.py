@@ -1,0 +1,1 @@
+"""Configuration des sessions SQLAlchemy."""

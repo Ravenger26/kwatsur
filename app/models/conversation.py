@@ -1,0 +1,1 @@
+"""Modèle SQLAlchemy de conversation."""
